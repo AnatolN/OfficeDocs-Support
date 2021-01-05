@@ -52,6 +52,7 @@ There are currently nine diagnostics covering various areas within Sharepoint an
 | **Access denied to a site or the web** |  Diagnose permission-related issues when accessing a site or the web. | Diag: Access Denied to Site |
 | **Unable to synchronize OneDrive with a sync client** | Validates that the OneDrive library can be synchronized via the sync client. | Diag: OneDrive Sync |
 | **Unable to synchronize a SharePoint Document Library with sync client** |   Validates that the SharePoint document library is configured properly to allow synchronization of files. | Diag: Library Sync |
+| **Duplicate SharePoint User in the directory** |   Validates and fixes duplicate entries for the same entries in SharePoint directory. | Diag: Duplicate SharePoint User |
 
 ### How do I run these diagnostics?
 
